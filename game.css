@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+
+#start{
+    text-align: center;
+    margin-top: 10vh;
+    margin-left: 47.5%;
+}
+#number{
+    border:none;
+    width: 20vw;
+    font-size: 1.2vw;
+    margin-left: 39vw;
+}
+#aiscore,#userscore{
+    font-size: 94%;
+}
+#box {
+    display: none;
+    
+    margin-left: 19vw;
+}
+
+#box div {
+    float: left;
+    width: 30vw;
+}
